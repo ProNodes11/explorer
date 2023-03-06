@@ -1,0 +1,29 @@
+{
+  "chain_name": "okp4-nemeton-1",
+  "api": [
+    "http://195.201.194.249:1317"
+  ],
+  "rpc": [
+    "http://195.201.194.249:26657"
+  ],
+  "sdk_version": "0.45.1",
+  "addr_prefix": "agoric",
+  "min_tx_fee": "0",
+  "logo": "/logos/agoric.png",
+  "assets": [
+    {
+      "symbol": "BLD",
+      "base": "ubld",
+      "exponent": 6,
+      "coingecko_id": "agoric",
+      "logo": "https://raw.githubusercontent.com/Agoric/agoric-sdk/master/packages/wallet/ui/public/tokens/BLD.svg"
+    },
+    {
+      "symbol": "RUN",
+      "base": "urun",
+      "exponent": 6,
+      "coingecko_id": "agoric",
+      "logo": "https://raw.githubusercontent.com/Agoric/agoric-sdk/master/packages/wallet/ui/public/tokens/RUN.svg"
+    }
+  ]
+}
